@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Java
 - 📫 How to reach me: https://www.linkedin.com/in/jan-duchnowski-9196aa203/
 Languages and Tools:
+<p>
 [![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,firebase,java)](https://skills.thijs.gg)
+  </p>
 
 
 
