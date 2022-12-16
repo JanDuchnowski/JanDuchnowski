@@ -6,6 +6,8 @@ I am 3rd year Computer Science student. I am an eager learner and very passionat
 - 🔭 I’m currently working on: TikTok Fullstack Clone 
 - 🌱 I’m currently learning: Bloc
 - 📫 How to reach me: https://www.linkedin.com/in/jan-duchnowski-9196aa203/
+
+
 Languages and Tools:
 
 
