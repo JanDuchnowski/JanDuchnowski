@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 Languages and Tools:
 
 Languages and tools section.
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,flutter)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,firebase,java)](https://skills.thijs.gg)
 
 
 
