@@ -11,7 +11,7 @@ Languages and Tools:
 
 Languages and tools section.
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter.svg" alt="flutter" width="40" height="40"/> </p>
+<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </p>
 
 
 
