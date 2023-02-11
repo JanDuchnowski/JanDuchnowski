@@ -4,7 +4,7 @@
 I am 3rd year Computer Science student. I am an eager learner and very passionate about mobile development.
 
 - 🔭 I’m currently working on: TikTok Fullstack Clone 
-- 🌱 I’m currently learning: Bloc
+- 🌱 I’m currently learning: Kotlin
 - 📫 How to reach me: https://www.linkedin.com/in/jan-duchnowski-9196aa203/
 
 
