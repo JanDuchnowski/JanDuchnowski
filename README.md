@@ -11,7 +11,7 @@ I am 3rd year Computer Science student. I am an eager learner and very passionat
 Languages and Tools:
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,firebase,java,bloc)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,firebase,kotlin,bloc)](https://skills.thijs.gg)
 
 
 
