@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I am 3rd year Computer Science student. I am an eager learner and very passionate about mobile development.
+Flutter Developer. Mobile Development enthusiast.
 
-- 🔭 I’m currently working on: TikTok Fullstack Clone 
-- 🌱 I’m currently learning: Kotlin
+- 🔭 Current job: Flutter Developer at Capisoft
+- 🌱 I’m currently learning: Swift
 - 📫 How to reach me: https://www.linkedin.com/in/jan-duchnowski-9196aa203/
 
 
