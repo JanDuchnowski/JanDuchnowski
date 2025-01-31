@@ -3,7 +3,6 @@
 
 Flutter Developer. Mobile Development enthusiast.
 
-- 🔭 Current position: Flutter Developer at Capisoft
 - 🌱 I’m currently learning: Swift
 - 📫 How to reach me: https://www.linkedin.com/in/jan-duchnowski-9196aa203/
 
